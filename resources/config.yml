@@ -2,28 +2,28 @@
 
 # Here you can set the Message which will be sent to a player without permissions.
 
-no-permissions: §cYou don't have Permissions for this action!
+no-permissions: §cこのアクションの権限がありません！
 
 # Here you can set the Message which will be sent to the player after a skin reset.
 
-skin-resetted: §aYour Skin has been resetted!
+skin-resetted: §aスキンがリセットされました。
 
 # Here you can set the Message which will be sent when the command has been executed by the console.
 
-ingame: §cRun this Command ingame!
+ingame: §cゲーム内でこのコマンドを実行してください！
 
 # Here you can set the Message which will be sent when you choose a cape.
 # {name} -> The Name of the Cape
 
-cape-on: §aYou activated the {name}-Cape!
+cape-on: §a{name}-Capeをつけました!
 
 # Here you can set the UI's Title.
 
-UI-Title: §bUltraCapes Menu
+UI-Title: §bReirouCapeMenu
 
 # Here you can set the Message under the UI's Title.
 
-UI-Content: §f§l>> §r§fHere you can choose a Cape!
+UI-Content: §f§l>> §r§fここではマントを選択できます！
 
 # Only for Internal Use [Don't Change!]
 
